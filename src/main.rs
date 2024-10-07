@@ -1,3 +1,6 @@
+use mmsolve::*;
+
 fn main() {
-    println!("Hello, world!");
+    tryout();
+    println!("hello");
 }
